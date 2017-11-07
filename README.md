@@ -13,12 +13,14 @@
 4) Room
 5) _Paging Library (still in alpha)_
 
-# Video (sort by date)
+# Video
 
-1) 6/Nov/17 **(3:59)** | [Architecture Components: Room](https://www.youtube.com/watch?v=H7I3zs-L-1w) Official stable 1.0.0 release video
-2) 18/May/17 **(35:42)** | [Architecture Components - Solving the Lifecycle Problem](https://www.youtube.com/watch?v=bEKNi1JOrNs) Google I/O 17
-3) 18/May/17 **(39:30)** | [Architecture Components - Persistence and Offline](https://www.youtube.com/watch?v=MfHsPGQ6bgE) Google I/O 17
-2) 17/May/17 **(38:26)** | [Architecture Components - Introduction](https://www.youtube.com/watch?v=FrteWKKVyzI) Google I/O 17
+1) 6/Nov/17 **(3:59)** | [Architecture Components: Room - Florina](https://www.youtube.com/watch?v=H7I3zs-L-1w) Official stable 1.0.0 release video
+2) 6/Sep/17 **(20:21)** | [Architecture Components - Florina](https://www.youtube.com/watch?v=Ts-uxYiBEQ8) GDD Europe '17
+3) 6/Sep/17 **(5:16)** | [MVVM + RxJava - Florina](https://www.youtube.com/watch?v=h25FDyGTLso) Android Dialogs
+4) 18/May/17 **(35:42)** | [Architecture Components - Solving the Lifecycle Problem - Sergey, Adam, Yigit](https://www.youtube.com/watch?v=bEKNi1JOrNs) Google I/O 17
+5) 18/May/17 **(39:30)** | [Architecture Components - Persistence and Offline - Yigit, Kirill](https://www.youtube.com/watch?v=MfHsPGQ6bgE) Google I/O 17
+6) 17/May/17 **(38:26)** | [Architecture Components - Introduction - Mike, Yigit, Lukas](https://www.youtube.com/watch?v=FrteWKKVyzI) Google I/O 17
 
 # Articles
 
