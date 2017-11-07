@@ -30,8 +30,8 @@
 
 # Podcasts
 
-01) [_18/Sep/17_] | [**35:36**] | [Android Architecture Paging Library - Florina](fragmentedpodcast.com/episodes/97/) Fragmented Podcast E97
-02) [_18/Jul/17_] | [**51:53**] | [Architecture Components 2 - Persistence - Yigit, Sergei](http://androidbackstage.blogspot.com/2017/06/episode-72-architecture-components-1.html) Android Developer Backstage E73
+01) [_18/Sep/17_] | [**35:36**] | [Android Architecture Paging Library - Florina](http://fragmentedpodcast.com/episodes/97/) Fragmented Podcast E97
+02) [_18/Jul/17_] | [**51:53**] | [Architecture Components 2 - Persistence - Yigit, Sergei](http://androidbackstage.blogspot.com/2017/07/episode-73-architecture-components-2.html) Android Developer Backstage E73
 03) [_30/Jun/17_] | [**43:52**] | [Architecture Components 1 - Lifecycle - Yigit, Sergei](http://androidbackstage.blogspot.com/2017/06/episode-72-architecture-components-1.html) Android Developer Backstage E72
 
 
