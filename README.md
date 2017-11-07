@@ -13,7 +13,7 @@
 4) Room
 5) _Paging Library (still in alpha)_
 
-# Video
+# Videos
 
 01) [_06/Nov/17_] | [**03:59**] | [Architecture Components: Room - Florina](https://www.youtube.com/watch?v=H7I3zs-L-1w) Official stable 1.0.0 release video
 02) [_31/Oct/17_] | [**38:32**] | [Clean app design with Architecture Components - Chuck](https://www.youtube.com/watch?v=i1-7S-RxfvQ) Conference : Droidcon NYC 17
@@ -27,6 +27,13 @@
 10) [_18/May/17_] | [**39:30**] | [Architecture Components - Persistence and Offline - Yigit, Kirill](https://www.youtube.com/watch?v=MfHsPGQ6bgE) Google I/O 17
 11) [_17/May/17_] | [**38:26**] | [Architecture Components - Introduction - Mike, Yigit, Lukas](https://www.youtube.com/watch?v=FrteWKKVyzI) Google I/O 17
 12) [_17/May/17_] | [**05:41**] | [Architecture Components: Improve Your App's Design - Lyla](https://www.youtube.com/watch?v=vOJCrbr144o) Google I/O 17
+
+# Podcasts
+
+01) [_18/Sep/17_] | [**35:36**] | [Android Architecture Paging Library - Florina](fragmentedpodcast.com/episodes/97/) Fragmented Podcast E97
+02) [_18/Jul/17_] | [**51:53**] | [Architecture Components 2 - Persistence - Yigit, Sergei](http://androidbackstage.blogspot.com/2017/06/episode-72-architecture-components-1.html) Android Developer Backstage E73
+03) [_30/Jun/17_] | [**43:52**] | [Architecture Components 1 - Lifecycle - Yigit, Sergei](http://androidbackstage.blogspot.com/2017/06/episode-72-architecture-components-1.html) Android Developer Backstage E72
+
 
 # Samples
 
