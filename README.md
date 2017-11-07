@@ -28,7 +28,7 @@
 11) [_17/May/17_] | [**38:26**] | [Architecture Components - Introduction - Mike, Yigit, Lukas](https://www.youtube.com/watch?v=FrteWKKVyzI) Google I/O 17
 12) [_17/May/17_] | [**05:41**] | [Architecture Components: Improve Your App's Design - Lyla](https://www.youtube.com/watch?v=vOJCrbr144o) Google I/O 17
 
-# Articles
+# Samples
 
-1) {a,b} Official Google - Android Architecture Components samples : https://github.com/googlesamples/android-architecture-components
-2) Official Google - Code Labs : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
+1) **Official** - Android Architecture Components : https://github.com/googlesamples/android-architecture-components
+2) **Official** - Google Code Labs : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
