@@ -32,3 +32,8 @@
 
 1) **Official** - Android Architecture Components : https://github.com/googlesamples/android-architecture-components
 2) **Official** - Google Code Labs : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
+
+# Links
+
+1) Android Developers Blog - [Announcing Architecture Components 1.0 Stable](https://android-developers.googleblog.com/2017/11/announcing-architecture-components-10.html)
+2) Reddit - [Android Architecture Component - Learning bookmarks](https://www.reddit.com/r/androiddev/comments/76wqog/sample_app_required_that_uses_mvp_dagger_retrofit/)
