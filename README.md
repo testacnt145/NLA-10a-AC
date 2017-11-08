@@ -43,6 +43,35 @@
 4) 3rd Party - MovieNight [:star2: 6] : https://github.com/TwistedMetalGear/MovieNight
 5) 3rd Party - Kucherenkolhar [:star2: 166] : https://github.com/KucherenkoIhor/Android-Architecture-Components
 
+
+### 1- Official Google -> [android-architecture](https://github.com/googlesamples/android-architecture)
+
+#### 1a [Github Browser Sample](https://github.com/googlesamples/android-architecture-components/tree/master/GithubBrowserSample/app/src/main/java/com/android/example/github) **9-May-17 | :star2: 4729**
+
+1) P+L(Config-chages-sup)
+----
+### 2- Official Google -> [Code Labs](https://github.com/googlecodelabs/android-build-an-app-architecture-components/tree/arch-training-steps/app/src/main/java/com/example/android/sunshine) **16-Aug-17 | :star2: 20**
+
+1) P+L(Config-chages-sup)
+----
+
+### 3- 3rd Party -> [Florina - Hello World](https://github.com/florina-muntenescu/MVPvsMVVM/tree/master/app/src/main/java/upday/mvpvsmvvm) **11-Apr-16 | :star2: 146**
+
+1) P+L(Config-chages-sup)
+----
+
+### 4- 3rd Party -> [MovieNight](https://github.com/TwistedMetalGear/MovieNight/tree/master/app/src/main/java/net/silentbyte/movienight) **8-Nov-17 | :star2: 6**
+
+[Reddit](https://www.reddit.com/r/androiddev/comments/75wgde/android_architecture_blueprints_todomvp_sample/do9lrs3/)
+
+1) P+L(Config-chages-sup)
+----
+
+### 5- 3rd Party -> [Kucherenkolhar](https://github.com/KucherenkoIhor/Android-Architecture-Components/tree/master/app/src/main/java/com/ik/exploringviewmodel) **19-May-17 | :star2: 146**
+
+1) P+L(Config-chages-sup)
+----
+
 # Links
 
 1) Android Developers Blog - [Announcing Architecture Components 1.0 Stable](https://android-developers.googleblog.com/2017/11/announcing-architecture-components-10.html)
