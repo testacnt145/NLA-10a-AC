@@ -76,4 +76,5 @@
 # Links
 
 1) Android Developers Blog - [Announcing Architecture Components 1.0 Stable](https://android-developers.googleblog.com/2017/11/announcing-architecture-components-10.html)
-2) Reddit - [Android Architecture Component - Learning bookmarks](https://www.reddit.com/r/androiddev/comments/76wqog/sample_app_required_that_uses_mvp_dagger_retrofit/)
+2) Reddit MY - [Android Architecture Component - Learning bookmarks](https://www.reddit.com/r/androiddev/comments/76wqog/sample_app_required_that_uses_mvp_dagger_retrofit/)
+3) Reddit MY - [Android Architecture Component with View Pager](https://www.reddit.com/r/androiddev/comments/7bl1t8/android_architecture_components_example_using/)
