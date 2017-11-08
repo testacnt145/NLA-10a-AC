@@ -70,6 +70,7 @@
 ### 5- 3rd Party -> [Kucherenkolhar](https://github.com/KucherenkoIhor/Android-Architecture-Components/tree/master/app/src/main/java/com/ik/exploringviewmodel) **19-May-17 | :star2: 146**
 
 1) P+L(Config-chages-sup)
+2) Kotlin
 ----
 
 # Links
