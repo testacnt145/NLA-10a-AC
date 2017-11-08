@@ -62,7 +62,7 @@
 
 ### 4- 3rd Party -> [MovieNight](https://github.com/TwistedMetalGear/MovieNight/tree/master/app/src/main/java/net/silentbyte/movienight) **8-Nov-17 | :star2: 6**
 
-[Reddit](https://www.reddit.com/r/androiddev/comments/75wgde/android_architecture_blueprints_todomvp_sample/do9lrs3/)
+[Reddit](https://www.reddit.com/r/androiddev/comments/7bh4vd/movie_night_a_simple_movie_app_showcasing_android/)
 
 1) P+L(Config-chages-sup)
 ----
