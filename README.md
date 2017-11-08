@@ -40,6 +40,7 @@
 1) **Official** - Android Architecture Components : https://github.com/googlesamples/android-architecture-components
 2) **Official** - Google Code Labs : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
 3) Florina - Hello World : https://github.com/florina-muntenescu/MVPvsMVVM
+4) 3rd Party - MovieNight : https://github.com/TwistedMetalGear/MovieNight
 
 # Links
 
