@@ -37,10 +37,11 @@
 
 # Samples
 
-1) **Official** - Android Architecture Components : https://github.com/googlesamples/android-architecture-components
-2) **Official** - Google Code Labs : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
-3) Florina - Hello World : https://github.com/florina-muntenescu/MVPvsMVVM
-4) 3rd Party - MovieNight : https://github.com/TwistedMetalGear/MovieNight
+1) **Official** - Android Architecture Components [:star2: 4729] : https://github.com/googlesamples/android-architecture-components
+2) **Official** - Google Code Labs [:star2: 20] : https://codelabs.developers.google.com/codelabs/build-app-with-arch-components/index.html
+3) Florina - Hello World [:star2: 146] : https://github.com/florina-muntenescu/MVPvsMVVM
+4) 3rd Party - MovieNight [:star2: 6] : https://github.com/TwistedMetalGear/MovieNight
+5) 3rd Party - Kucherenkolhar [:star2: 166] : https://github.com/KucherenkoIhor/Android-Architecture-Components
 
 # Links
 
