@@ -87,6 +87,12 @@
 2) Kotlin
 ----
 
+### 6- 3rd Party -> [ArchMovie](https://github.com/iammert/AndroidArchitecture/tree/master/app/src/main/java/iammert/com/androidarchitecture) **21-May-17 | :star2: 474**
+
+1) P+L(Config-chages-sup)
+2) LiveData, Room Persistence, Dagger 2, Retrofit, MVVM, DataBinding
+----
+
 # Links
 
 **Forum**
