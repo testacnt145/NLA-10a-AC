@@ -55,7 +55,7 @@
 ----
 ### 2- Official Google -> [Code Labs](https://codelabs.developers.google.com/?cat=Android)
 
-#### 2a [Android lifecycle-aware components codelab](https://codelabs.developers.google.com/codelabs/android-lifecycles/index.html?index=..%2F..%2Findex#1) **5-Sep-17**
+#### 2a [Android lifecycle-aware components codelab](https://github.com/googlecodelabs/android-lifecycles/tree/master/app/src/main/java/com/example/android/lifecycles) **5-Sep-17**
 
 1) P+L(Config-chages-sup)
 
@@ -63,7 +63,7 @@
 
 1) P+L(Config-chages-sup)
 
-#### 2c [Android Persistence codelab](https://codelabs.developers.google.com/codelabs/android-persistence/index.html?index=..%2F..%2Findex#1) **3-Sep-17**
+#### 2c [Android Persistence codelab](https://github.com/googlecodelabs/android-persistence) **3-Sep-17**
 
 1) P+L(Config-chages-sup)
 
