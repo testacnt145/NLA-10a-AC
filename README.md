@@ -91,6 +91,7 @@
 
 1) P+L(Config-chages-sup)
 2) LiveData, Room Persistence, Dagger 2, Retrofit, MVVM, DataBinding
+3) View Pager
 ----
 
 # Links
