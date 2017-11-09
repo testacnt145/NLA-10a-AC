@@ -74,20 +74,20 @@
 1) P+L(Config-chages-sup)
 ----
 
-### 4- 3rd Party -> [MovieNight](https://github.com/TwistedMetalGear/MovieNight/tree/master/app/src/main/java/net/silentbyte/movienight) **8-Nov-17 | :star2: 6**
+### 4- 3rd Party -> [MovieNight](https://github.com/TwistedMetalGear/MovieNight/tree/master/app/src/main/java/net/silentbyte/movienight) **8-Nov-17 | :star2: 16**
 
 [Reddit](https://www.reddit.com/r/androiddev/comments/7bh4vd/movie_night_a_simple_movie_app_showcasing_android/)
 
 1) P+L(Config-chages-sup)
 ----
 
-### 5- 3rd Party -> [Kucherenkolhar](https://github.com/KucherenkoIhor/Android-Architecture-Components/tree/master/app/src/main/java/com/ik/exploringviewmodel) **19-May-17 | :star2: 146**
+### 5- 3rd Party -> [Kucherenkolhar](https://github.com/KucherenkoIhor/Android-Architecture-Components/tree/master/app/src/main/java/com/ik/exploringviewmodel) **19-May-17 | :star2: 176**
 
 1) P+L(Config-chages-sup)
 2) Kotlin
 ----
 
-### 6- 3rd Party -> [ArchMovie](https://github.com/iammert/AndroidArchitecture/tree/master/app/src/main/java/iammert/com/androidarchitecture) **21-May-17 | :star2: 474**
+### 6- 3rd Party -> [ArchMovie](https://github.com/iammert/AndroidArchitecture/tree/master/app/src/main/java/iammert/com/androidarchitecture) **21-May-17 | :star2: 476**
 
 1) P+L(Config-chages-sup)
 2) LiveData, Room Persistence, Dagger 2, Retrofit, MVVM, DataBinding
