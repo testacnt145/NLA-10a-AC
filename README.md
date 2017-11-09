@@ -51,9 +51,20 @@
 
 1) P+L(Config-chages-sup)
 ----
-### 2- Official Google -> [Code Labs](https://github.com/googlecodelabs/android-build-an-app-architecture-components/tree/arch-training-steps/app/src/main/java/com/example/android/sunshine) **16-Aug-17 | :star2: 20**
+### 2- Official Google -> [Code Labs](https://codelabs.developers.google.com/?cat=Android)
+
+#### 2a [Android lifecycle-aware components codelab](https://codelabs.developers.google.com/codelabs/android-lifecycles/index.html?index=..%2F..%2Findex#1) **5-Sep-17**
 
 1) P+L(Config-chages-sup)
+
+#### 2b [Build an app with Architecture Component](https://github.com/googlesamples/android-architecture-components/tree/master/GithubBrowserSample/app/src/main/java/com/android/example/github) **4-Sep-17**
+
+1) P+L(Config-chages-sup)
+
+#### 2c [Android Persistence codelab](https://codelabs.developers.google.com/codelabs/android-persistence/index.html?index=..%2F..%2Findex#1) **3-Sep-17**
+
+1) P+L(Config-chages-sup)
+
 ----
 
 ### 3- 3rd Party -> [Florina - Hello World](https://github.com/florina-muntenescu/MVPvsMVVM/tree/master/app/src/main/java/upday/mvpvsmvvm) **11-Apr-16 | :star2: 146**
