@@ -61,7 +61,7 @@
 
 1) P+L(Config-chages-sup)
 
-#### 2b [Build an app with Architecture Component](https://github.com/googlesamples/android-architecture-components/tree/master/GithubBrowserSample/app/src/main/java/com/android/example/github) **4-Sep-17**
+#### 2b [Build an app with Architecture Component](https://github.com/googlecodelabs/android-build-an-app-architecture-components/tree/arch-training-steps/app/src/main/java/com/example/android/sunshine) **4-Sep-17**
 
 1) P+L(Config-chages-sup)
 
