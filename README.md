@@ -5,6 +5,16 @@
 
 > We've also started to use LiveData which hooks directly into the Activity lifecycle. We use it to retrieve and display network data and no longer have to concern ourselves with ​network call subscription management.
 
+# [Why MVVM over MVP?](https://www.reddit.com/r/androiddev/comments/7cp0xn/mvc_vs_mvp_vs_mvvm_vs_mvi/dpssidd/)
+
+> What about config changes, like screen orientation change while http requests are running? How do you restore that "state" (showing progress bar because http request is still running after screen orientation change) in MVP ?
+
+> What about back stack navigation like starting http request in Fragment A, but then navigate to Fragment B (Fragment A is not visible anymore, it's on the back stack, hence Presenter of Fragment A has no view attached).
+
+> What about more complex screens like a list of items displayed in a recyclerview but your user can do a pull to refresh and pagination (load more items when the user has scrolled to the end of the recyclerview) at the same time. How do you do that in MVP? Now add screen orientation changes and backstack navigation to that equation. Easy, right?
+
+> Sure somehow you can implement it in MVP but how maintainable is that code? That kind of problems can be solved with "state management"
+
 # Components
 
 1) Lifecycles
